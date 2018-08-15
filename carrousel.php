@@ -9,16 +9,16 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="resources/images/carousell-images/1-PVD%20Applications-original.jpg" alt="First slide">
+                    <img class="d-block w-100" src="resources/images/carousell-images/resized/rsz_1-pvd_applications-original.jpg" alt="First slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="resources/images/carousell-images/2-car%20application.jpg" alt="Second slide">
+                    <img class="d-block w-100" src="resources/images/carousell-images/resized/rsz_2-car_application.jpg" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="resources/images/carousell-images/3-Consumer%20electronics%20applications.jpg" alt="Third slide">
+                    <img class="d-block w-100" src="resources/images/carousell-images/resized/rsz_3-consumer_electronics_applications.jpg" alt="Third slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="resources/images/carousell-images/4-Decorative%20Applications.jpg" alt="Forth slide">
+                    <img class="d-block w-100" src="resources/images/carousell-images/resized/rsz_4-decorative_applications.jpg" alt="Forth slide">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
