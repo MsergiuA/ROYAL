@@ -1,3 +1,6 @@
+body {
+    background-color: #e8e8e8;
+}
 .container-fluid{
     padding-left: 0px;
     padding-right: 0px;
@@ -6,7 +9,7 @@
 .tel-email-container{
     text-align: center;
     height: 4em;
-    background-color: #535955;
+    background-color: #3f3f3f;
 }
 
 .tel-email-container p{
@@ -19,20 +22,20 @@
 }
 
 .nav-bar-ul{
-    background-color: #686a5c;
+    background-color: #545454;
     padding-bottom: 0px !important;
 }
 
 .nav-bar-ul a{
     color: white;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .nav-bar-ul a:hover{
     color: #35bfc2;
     text-decoration: none;
-    background-color: #535955;
+    background-color: #3f3f3f;
 }
 
 .carrousel-no-padding-class{
@@ -63,27 +66,32 @@
 
 .extra-menu-div{
     text-align: center;
-    background-color: #535955;
+    background-color: #3f3f3f;
     color: white;
 }
 
 .body-of-hidden-div{
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
 }
+
 
 .hidden-element-text{
     color: white;
-    font-weight: bold;
+    font-size: 13px;
+    text-transform: uppercase;
     text-decoration: none;
 }
 
 .hidden-element-text:hover{
-    color: white;
+    color: #35bfc2;
     text-decoration: none;
 }
 
 
 .custom-line-for-menu-items{
     background-color:  #35bfc2;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
