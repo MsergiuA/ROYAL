@@ -1,0 +1,89 @@
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.tel-email-container{
+    text-align: center;
+    height: 4em;
+    background-color: #535955;
+}
+
+.tel-email-container p{
+    padding-top: 20px;
+}
+
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.nav-bar-ul{
+    background-color: #686a5c;
+    padding-bottom: 0px !important;
+}
+
+.nav-bar-ul a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.nav-bar-ul a:hover{
+    color: #35bfc2;
+    text-decoration: none;
+    background-color: #535955;
+}
+
+.carrousel-no-padding-class{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.carousel-inner{
+    height: 500px;
+}
+
+.index-text{
+    margin-top: 20px;
+}
+
+.little-more-info-index{
+    background-color: #c8c3bf;
+}
+
+.our-products-index-section{
+    background-image: url("/resources/images/bg.jpg");
+}
+
+.our-products-index-div-box p{
+    background-color: orange;
+    padding: 20px;
+}
+
+.extra-menu-div{
+    text-align: center;
+    background-color: #535955;
+    color: white;
+}
+
+.body-of-hidden-div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.hidden-element-text{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.hidden-element-text:hover{
+    color: white;
+    text-decoration: none;
+}
+
+
+.custom-line-for-menu-items{
+    background-color:  #35bfc2;
+}
