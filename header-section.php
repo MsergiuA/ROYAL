@@ -22,6 +22,7 @@
         <div class="header col-md-12 col-xs-12 extra-menu-div" style="display: none">
             <div class="col-md-10 offset-1">
                 <div class="row body-of-hidden-div">
+
                 </div>
             </div>
         </div>

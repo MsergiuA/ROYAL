@@ -84,17 +84,20 @@
 
     <script>
         var products = [
-            'Masina',
-            'Casa',
-            'Bani',
-            'Muraturi'
+            'PVD Vacuum Coating Equipment',
+            'PVD Vacuum Coating Service',
+            'Vacuum Chambers',
+            'Vacuum Pump'
         ];
 
-        var royal = [
-            'Cola',
-            'Fanta',
-            'Sprite',
-            'Cacat'
+        var application = [
+            'General Application',
+            'Automotive Application',
+            'Electronics Acpplication',
+            'Hardware Decorative',
+            'Medical Industry',
+            'Forensic Fingerprint',
+            'R&D'
         ];
 
         $('.menuItem').hover(function(){
@@ -105,9 +108,9 @@
             linkContent  = linkContent.toLowerCase();
             console.log(linkContent);
 
-            if(linkContent == 'royal') {
-                $(royal).each(function (i) {
-                    var content = '<a class="p-2 col-md-2 hidden-element-text" href="#">' + royal[i] + '<hr class="custom-line-for-menu-items"></a>';
+            if(linkContent == 'application') {
+                $(application).each(function (i) {
+                    var content = '<a class="p-2 col-md-2 hidden-element-text" href="#">' + application[i] + '<hr class="custom-line-for-menu-items"></a>';
                     $('.body-of-hidden-div').append(content);
                 });
             }else if(linkContent == 'products'){

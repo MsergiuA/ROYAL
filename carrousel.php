@@ -5,16 +5,20 @@
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="resources/images/sew.jpeg" alt="First slide">
+                    <img class="d-block w-100" src="resources/images/carousell-images/1-PVD%20Applications-original.jpg" alt="First slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="resources/images/second.jpeg" alt="Second slide">
+                    <img class="d-block w-100" src="resources/images/carousell-images/2-car%20application.jpg" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="resources/images/third.jpeg" alt="Third slide">
+                    <img class="d-block w-100" src="resources/images/carousell-images/3-Consumer%20electronics%20applications.jpg" alt="Third slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="resources/images/carousell-images/4-Decorative%20Applications.jpg" alt="Forth slide">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
